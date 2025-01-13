@@ -7,6 +7,7 @@ Created on Mon Jan 13 12:32:43 2025
 
 
 from flask import Flask, request, jsonify
+from flask import render_template
 
 import openai
 
