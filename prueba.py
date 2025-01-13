@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jan 13 12:32:43 2025
+
+@author: idelore
+"""
+
 from flask import Flask
 
 app = Flask(__name__)
