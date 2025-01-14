@@ -1,15 +1,11 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 13 12:32:43 2025
-
-@author: idelore
-"""
-
-
 from flask import Flask, request, jsonify
+<<<<<<< HEAD
 from flask import render_template
 
+=======
+>>>>>>> 151dc80d9eb6d8741da518a96c4491c51b76ba5b
 import openai
+from flask import render_template
 
 app = Flask(__name__)
 
